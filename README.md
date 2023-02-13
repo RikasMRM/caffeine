@@ -1,6 +1,6 @@
 # caffeine Social Media Application
-![My Image](surgedev2.jpg)
-![My Image](surgedev.jpg)
+![My Image](pic2.jpg)
+![My Image](pic.jpg)
 
 This application contains 2 main repos, front end and backend in 2 seperate folders names "client" and "server"
 
